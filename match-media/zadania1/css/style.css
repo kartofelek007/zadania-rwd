@@ -8,6 +8,8 @@
     text-align: justify;
     font-family: sans-serif;
 }
+.main-content h1,
+.main-content h2,
 .main-content h3 {
     color: tomato;
 }
